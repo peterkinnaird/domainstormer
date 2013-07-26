@@ -1,1 +1,2 @@
+rvm use ruby-2.0.0@Rails4.0_mainstormer --create
 heroku accounts:set mainstormer
